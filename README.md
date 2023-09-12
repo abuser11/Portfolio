@@ -1,3 +1,5 @@
 # Portfolio
 ***
-Here some of the completed projects are published
+Здесь собраны несколько из последних завершенных мною проектов. 
+Некоторые графики могут не отображаться на GitHub, рекомендую открыть их на [**Kaggle**](https://www.kaggle.com/artemosanov)
+
